@@ -17,7 +17,7 @@ On Linux systems, you may also need to install the libgl1-mesa-glx package using
 ```bash
 $ sudo apt-get install libgl1-mesa-glx
 ```
-Running the Program
+### Running the Program
 To run the program, navigate to the directory where the program is located and run the following command:
 ```bash
 $ python image_sketch_maker.py
